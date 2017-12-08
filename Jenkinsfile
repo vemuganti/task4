@@ -1,7 +1,8 @@
 properties([[$class: 'GithubProjectProperty',
              displayName: '', 
-             projectUrlStr: 'https://github.com/vemuganti/Task4.git/'], 
+             projectUrlStr: 'https://github.com/vemuganti/task4.git/'], 
              pipelineTriggers([])])
+
 
 pipeline {
     agent any
