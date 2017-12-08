@@ -1,6 +1,6 @@
 properties([[$class: 'GithubProjectProperty',
              displayName: '', 
-             projectUrlStr: 'https://github.com/hemalatha13/Task4.git/'], 
+             projectUrlStr: 'https://github.com/vemuganti/Task4.git/'], 
              pipelineTriggers([])])
 
 pipeline {
